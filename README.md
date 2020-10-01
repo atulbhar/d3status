@@ -1,6 +1,6 @@
 # D3Status-An amazing project
 
-Diablo3 server status notification APP, a RESTful API demo powered by Tornado.
+Diablo3 server status notification APP, a Restful API demo powered by Tornado.
 
 ## Requirement(Python packages)
 
