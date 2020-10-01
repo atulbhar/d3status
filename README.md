@@ -1,4 +1,4 @@
-# D3Status-An amazing poject
+# D3Status-An amazing project
 
 Diablo3 server status notification APP, a RESTful API demo powered by Tornado.
 
